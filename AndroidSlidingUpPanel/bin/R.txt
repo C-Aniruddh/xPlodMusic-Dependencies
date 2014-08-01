@@ -1,0 +1,17 @@
+int attr dragView 0x7f010005
+int attr fadeColor 0x7f010003
+int attr flingVelocity 0x7f010004
+int attr overlay 0x7f010006
+int attr panelHeight 0x7f010000
+int attr paralaxOffset 0x7f010002
+int attr shadowHeight 0x7f010001
+int drawable above_shadow 0x7f020000
+int drawable below_shadow 0x7f020001
+int[] styleable SlidingUpPanelLayout { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005, 0x7f010006 }
+int styleable SlidingUpPanelLayout_dragView 5
+int styleable SlidingUpPanelLayout_fadeColor 3
+int styleable SlidingUpPanelLayout_flingVelocity 4
+int styleable SlidingUpPanelLayout_overlay 6
+int styleable SlidingUpPanelLayout_panelHeight 0
+int styleable SlidingUpPanelLayout_paralaxOffset 2
+int styleable SlidingUpPanelLayout_shadowHeight 1
