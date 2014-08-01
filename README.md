@@ -4,7 +4,7 @@ xPlodMusic-Dependencies
 This repository contains the necessary libraries to be imported in Eclipse, before you can successfully compile it.
 
 I have mirrored all the libraries, as they were updated with time and are no longer the way they should be.
-Please note that all the libraries used in this project are under APACHE v2 license, and provide proper permissions to be distributed as required, with or without any modeifications.
+Please note that all the libraries used in this project are under APACHE v2 license, and provide proper permissions to be distributed as required, with or without any modifications.
 
 Libraries : 
 
